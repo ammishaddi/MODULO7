@@ -1,14 +1,19 @@
-# PROYECTOS MODULO 7 
-Repositorio para ir guardando los proyectos del modulo 7
+# PARTE 2
+Instalación de Ollama y custom hook para chatear
+![Texto alternativo](https://i.imgur.com/JNVZsVx.png)
+![Texto alternativo](https://i.imgur.com/03MtZat.png)
 
-## Parte 1 Instalación del entorno
-- Se instaló lo indicado para trabajar en el proyecto: react router dom, react hook form y yup, tailwind css 3
+## Proceso
+- Comprobando instalación y funcionalidad de Ollama
+![Texto alternativo](https://i.imgur.com/CC7rz9S.png)
 
 
-![Texto alternativo](https://i.imgur.com/O9l8Lr6.png)
+- En React no funcionaba, estuve como dos horas y resulta que tenia una llave extra jajant :(
+![Texto alternativo](https://i.imgur.com/Qc3SUHd.png)
 
-Archivos de Tailwind, tuve que actualizar node y bajar la versión 3 de tailwind
-![Texto alternativo](https://i.imgur.com/MaI0TxV.png)
 
-Comprobación de que funciona Tailwind
-![Texto alternativo](https://i.imgur.com/cCbbYxM.png)
+- Chat funcional pero con el modelo de gemma3:latest
+![Texto alternativo](https://i.imgur.com/nfZoXAP.png)
+
+- Chat funcional ahora si con el modelo deepseek-r1:1.5b, aun no resuelvo porque lanza los "<think></think>"
+![Texto alternativo](https://i.imgur.com/nfZoXAP.png)

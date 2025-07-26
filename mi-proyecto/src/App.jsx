@@ -1,12 +1,12 @@
+import Formulario from "./components/Formulario";
 
-import './App.css'
-
-export default function App() {
+function App() {
   return (
-    <div className="bg-teal-500 text-white p-4 text-xl rounded-xl shadow-lg">
-      Probando Tailwind css
+    <div className="min-h-screen bg-gray-900 flex items-center justify-center">
+      <Formulario />
     </div>
   );
 }
 
+export default App;
 

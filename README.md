@@ -15,5 +15,5 @@ Instalación de Ollama y custom hook para chatear
 - Chat funcional pero con el modelo de gemma3:latest
 ![Texto alternativo](https://i.imgur.com/nfZoXAP.png)
 
-- Chat funcional ahora si con el modelo deepseek-r1:1.5b, aun no resuelvo porque lanza los "<think></think>"
-![Texto alternativo](https://i.imgur.com/nfZoXAP.png)
+- Chat funcional ahora si con el modelo deepseek-r1:1.5b, no sé porque lanza los think /think
+![Texto alternativo](https://i.imgur.com/HumE1Mf.png)

@@ -1,5 +1,9 @@
-# PROYECTOS MODULO 7 
-Repositorio para ir guardando los proyectos del modulo 7
+# PARTE 3
+Aplicar contexto 
+
+![Texto alternativo](https://i.imgur.com/O9l8Lr6.png)
+
+
 
 ## Parte 1 Instalación del entorno
 - Se instaló lo indicado para trabajar en el proyecto: react router dom, react hook form y yup, tailwind css 3

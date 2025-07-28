@@ -3,8 +3,8 @@ import './App.css'
 
 export default function App() {
   return (
-    <div className="bg-teal-500 text-white p-4 text-xl rounded-xl shadow-lg">
-      Probando Tailwind css
+    <div>
+      se llamara a Ollama, donde estara el contexto añadido. Pero esto se modificara en la parte 2 para no causar problemas al hacer merge 
     </div>
   );
 }

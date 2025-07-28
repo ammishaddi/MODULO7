@@ -1,18 +1,18 @@
 # PARTE 3
-Aplicar contexto 
+Añadir contexto 
 
-![Texto alternativo](https://i.imgur.com/O9l8Lr6.png)
+![Texto alternativo](https://i.imgur.com/MwAwsWB.png)
 
-
-
-## Parte 1 Instalación del entorno
-- Se instaló lo indicado para trabajar en el proyecto: react router dom, react hook form y yup, tailwind css 3
+main jsx
+![Texto alternativo](https://i.imgur.com/K2q9zfN.png)
 
 
-![Texto alternativo](https://i.imgur.com/O9l8Lr6.png)
+## Notas
+- Me salia error al tener todo en un solo archivo asi que tuve que separar en dos, un archivo para el contexto y otro para el provider
+![Texto alternativo](https://i.imgur.com/TjptGof.png)
 
-Archivos de Tailwind, tuve que actualizar node y bajar la versión 3 de tailwind
-![Texto alternativo](https://i.imgur.com/MaI0TxV.png)
+- Falta modificar el archivo de Ollama para incluir el contexto pero lo voy a incluir en la parte2 para que al hacer merge no entre en conflicto 
+- Lo hice basandome en el codigo que venia en campus, solo que aun no tengo el archivo de history.jsx para la parte2 asi que esta simplificado 
 
-Comprobación de que funciona Tailwind
-![Texto alternativo](https://i.imgur.com/cCbbYxM.png)
+
+
